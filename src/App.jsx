@@ -4,14 +4,17 @@ import './App.css';
 import FirstCalculator from './components/FirstCalculator';
 import SecondCalculator from './components/SecondCalculator';
 
+import './styles/styles.css';
+
 
 function App() {
   return (
-    <>
-    <FirstCalculator />
-    <hr />
-    <SecondCalculator />
-    </>
+    <div className="app-container">
+      <img src="/inside-out-logo.jpeg" />
+      <FirstCalculator />
+      <hr />
+      <SecondCalculator />
+    </div>
   );
 }
 
