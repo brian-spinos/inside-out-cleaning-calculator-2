@@ -48,14 +48,14 @@ const SecondCalculator = () => {
 
 	return(
 		<>
-			<p>Pagamento/Hora</p>
+			<p>Payment/Hr</p>
 			<input type="number" value={pagamentoPorHora} onChange={pagamentoPorHoraChangeHandler}/>
 
-			<p>Horas trabalhadas</p>
+			<p>Hours worked</p>
 			<input type="number" value={horasTrabalhadasH} onChange={horasTrabalhadasHChangeHandler} />
 			<input type="number" value={horasTrabalhadasM} onChange={horasTrabalhadasMChangeHandler} />
 
-			<p>Pagamento/Hora: ${pagamentoTotal}</p>
+			<p>Total payment: ${pagamentoTotal}</p>
 		</>);
 };
 
