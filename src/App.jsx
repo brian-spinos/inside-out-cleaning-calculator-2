@@ -9,12 +9,16 @@ import './styles/styles.css';
 
 function App() {
   return (
-    <div className="app-container">
+    <>
+      <div className="app-container">
       <img src="/inside-out-logo.jpeg" />
       <FirstCalculator />
-      <hr />
+    </div>
+    <br />
+    <div className="app-container">
       <SecondCalculator />
     </div>
+    </>
   );
 }
 
