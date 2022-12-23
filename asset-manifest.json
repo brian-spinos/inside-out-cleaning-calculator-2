@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inside-out-cleaning-calculator-2/static/css/main.202c2fe6.chunk.css",
+    "main.js": "/inside-out-cleaning-calculator-2/static/js/main.6978600b.chunk.js",
+    "main.js.map": "/inside-out-cleaning-calculator-2/static/js/main.6978600b.chunk.js.map",
+    "runtime-main.js": "/inside-out-cleaning-calculator-2/static/js/runtime-main.04aa0189.js",
+    "runtime-main.js.map": "/inside-out-cleaning-calculator-2/static/js/runtime-main.04aa0189.js.map",
+    "static/js/2.649ceaac.chunk.js": "/inside-out-cleaning-calculator-2/static/js/2.649ceaac.chunk.js",
+    "static/js/2.649ceaac.chunk.js.map": "/inside-out-cleaning-calculator-2/static/js/2.649ceaac.chunk.js.map",
+    "static/js/3.a2e9058e.chunk.js": "/inside-out-cleaning-calculator-2/static/js/3.a2e9058e.chunk.js",
+    "static/js/3.a2e9058e.chunk.js.map": "/inside-out-cleaning-calculator-2/static/js/3.a2e9058e.chunk.js.map",
+    "index.html": "/inside-out-cleaning-calculator-2/index.html",
+    "static/css/main.202c2fe6.chunk.css.map": "/inside-out-cleaning-calculator-2/static/css/main.202c2fe6.chunk.css.map",
+    "static/js/2.649ceaac.chunk.js.LICENSE.txt": "/inside-out-cleaning-calculator-2/static/js/2.649ceaac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/inside-out-cleaning-calculator-2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04aa0189.js",
+    "static/js/2.649ceaac.chunk.js",
+    "static/css/main.202c2fe6.chunk.css",
+    "static/js/main.6978600b.chunk.js"
+  ]
+}
